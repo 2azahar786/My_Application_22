@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "next lint"
   },
+
+  
   "dependencies": {
     "-": "^0.0.1",
     "@clerk/nextjs": "^4.27.7",
